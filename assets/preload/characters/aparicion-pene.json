@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				-107,
+				-167
+			],
+			"anim": "singLEFT",
+			"fps": 19,
+			"name": " left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-291,
+				-26
+			],
+			"anim": "singRIGHT",
+			"fps": 19,
+			"name": " right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-287,
+				-242
+			],
+			"anim": "singDOWN",
+			"fps": 19,
+			"name": " down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-289,
+				186
+			],
+			"anim": "singUP",
+			"fps": 19,
+			"name": " up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-79,
+				-182
+			],
+			"anim": "idle",
+			"fps": 21,
+			"name": " aparece",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/ABOMINATION_HYPNO_ENTRANCE",
+	"position": [
+		950,
+		250
+	],
+	"healthicon": "bfhypno",
+	"flip_x": false,
+	"healthbar_colors": [
+		49,
+		176,
+		209
+	],
+	"camera_position": [
+		-290,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 2.7
+}
